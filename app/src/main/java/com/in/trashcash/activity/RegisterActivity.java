@@ -115,7 +115,7 @@ public class RegisterActivity extends AppCompatActivity {
                             Toast.makeText(RegisterActivity.this, "Authentication Failed" + task.getException(), Toast.LENGTH_SHORT).show();
 
                         } else {
-                            startActivity(new Intent(RegisterActivity.this, HomeActivity.class));
+                            startActivity(new Intent(RegisterActivity.this, SmsActivity.class));
                         }
                     }
                 });

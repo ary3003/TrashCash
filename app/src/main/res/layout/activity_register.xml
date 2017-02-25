@@ -38,7 +38,6 @@
                     android:paddingRight="5dp"
                     android:paddingLeft="5dp"
                     android:layout_height="50dp"
-                    android:alpha="0.4"
                     android:textColorHint="@color/colorAppBack"
                     android:maxLines="1"
                     android:textColor="@color/colorAppBack"
@@ -64,7 +63,6 @@
                     android:inputType="textPassword"
                     android:textColor="@color/colorAppBack"
                     android:maxLines="1"
-                    android:alpha="0.4"
                     android:singleLine="true" />
 
 
@@ -85,10 +83,9 @@
                     android:layout_marginLeft="15dp"
                     android:imeActionLabel="@string/action_sign_in_short"
                     android:imeOptions="actionUnspecified"
-                    android:inputType="textPassword"
+                    android:inputType="phone"
                     android:textColor="@color/colorAppBack"
                     android:maxLines="1"
-                    android:alpha="0.4"
                     android:singleLine="true" />
 
 

@@ -91,6 +91,7 @@ public class HomeFragment extends Fragment {
         Typeface custom_font = Typeface.createFromAsset(getResources().getAssets(),"fonts/Raleway-Regular.ttf");
         textViewCounter.setTypeface(custom_font);
         detail_tv.setTypeface(custom_font);
+        view.setBackground(getResources().getDrawable(R.drawable.bg3blur));
         updateUI();
 
         return view;
