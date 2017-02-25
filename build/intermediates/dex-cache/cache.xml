@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_f9029bfee053bff17250e59efdb1f0b9e829496c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_063c36dcf3fcb8bf87ebafb03cedb642c8978bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_9b54951917373c7efb27f80b88fec6174f9487af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_e8f85fc53219fa021cc4b1a7bba4b2aeeacee23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_7ce2a3f08cc8237cc22624101cf94635041ada9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_ad7da4efd0a93af2005024f1aae7b67a1806beaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_6e7023943070641e3ac085ab071295574ea27853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_de3f4982572103d20bd5430aa25b4c10460bf3a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_7e66219b99cdcd6be1c4f69c8a87214e2fb2e0b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_d8990bc51f43df8fa417131101103c86285a0f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_c78da19151c5b3fa92b0b9b9f8a5888d3d0809a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_0b0827f9bdce7f0667454d94a8187b2e1757e62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_4bdb9cd6c8103502deec09558fb973d1741143d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_f70f3f30121623f6b749ace1e1dbfa0927eeb516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_491a38f331cf2065eefa1f12dce055a60172e7c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_037db80fc3ec14f8371fd8baf3670608d80c7c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_270cda0edba912c9f82e7d9e3fa5a91080927844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_287dee569b72662d570868f5e83df2f30e103d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_52a24e22bd82f94069975f033052f71b614f11d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_e44f3583ec3e3b9bb6de5fd5d0f454c6ed44223c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_52773c3b2540162b96501575d2496c5c6a3151f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_ea8bae799f42fca925baf2165d309405db243cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_f92d683c1bbac90eb9be68c6405a187142afe102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/rashi/AndroidStudioProjects/TrashCash/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_c03d8d6edabe6837282335d4196ac70857a753e8.jar" />
+    </item>
+
+</items>

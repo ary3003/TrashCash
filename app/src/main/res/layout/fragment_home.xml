@@ -2,13 +2,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg4"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context="com.in.trashcash.fragment.HomeFragment">
 
     <TextView
-        android:text="TOTAL REWARD POINTS:"
+        android:text="Total Reward points:"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textColor="@color/colorAppBack"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="39dp"
@@ -17,7 +20,15 @@
         android:textSize="20dp"/>
 
     <TextView
+
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:padding="4dp"
+        android:textColor="@color/colorAppBack"
+        android:visibility="visible"
         android:layout_width="200dp"
+        android:background="@drawable/tv_bground"
         android:layout_height="200dp"
         android:id="@+id/textViewCounter"
         android:layout_alignParentTop="true"

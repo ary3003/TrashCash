@@ -3,8 +3,10 @@ package com.in.trashcash.activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.content.OperationApplicationException;
+import android.graphics.Typeface;
 import android.os.AsyncTask;
 import android.support.annotation.NonNull;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -24,11 +26,11 @@ import com.in.trashcash.R;
 
 public class RegisterActivity extends AppCompatActivity {
 
-    private AutoCompleteTextView mEmailView;
-    private EditText mPasswordView;
-    private Toolbar toolbar;
+    private EditText mEmailView;
+    private EditText mPasswordView, ed_phn;
     private String str_mPasswordView;
     private String str_mEmailView;
+    private Button signinbtn;
 
     private ProgressDialog dialog;
 
@@ -41,25 +43,33 @@ public class RegisterActivity extends AppCompatActivity {
         setContentView(R.layout.activity_register);
 
 
-        toolbar = (Toolbar) findViewById(R.id.toolbar1);
-        setSupportActionBar(toolbar);
-        toolbar.setBackgroundColor(getResources().getColor(R.color.colorAppHead));
-        toolbar.setTitle("Login");
+
         // Set up the login form.
-        mEmailView = (AutoCompleteTextView) findViewById(R.id.email);
+        mEmailView = (EditText) findViewById(R.id.email);
         str_mEmailView = mEmailView.getText().toString();
 
 
         mPasswordView = (EditText) findViewById(R.id.password);
         str_mPasswordView = mPasswordView.getText().toString();
+        ed_phn = (EditText) findViewById(R.id.ed_phone);
 
-        Button button = (Button) findViewById(R.id.skipButton);
-        button.setOnClickListener(new View.OnClickListener() {
+
+        signinbtn = (Button) findViewById(R.id.email_sign_in_button);
+        FloatingActionButton fabutton = (FloatingActionButton) findViewById(R.id.skipButton);
+        fabutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(RegisterActivity.this, HomeActivity.class));
             }
         });
+
+        Typeface custom_font = Typeface.createFromAsset(getAssets(),"fonts/Raleway-Regular.ttf");
+        signinbtn.setTypeface(custom_font);
+        mEmailView.setTypeface(custom_font);
+        mPasswordView.setTypeface(custom_font);
+        ed_phn.setTypeface(custom_font);
+
+
 
         mAuth = FirebaseAuth.getInstance();
         mAuthListener = new FirebaseAuth.AuthStateListener() {

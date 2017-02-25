@@ -6,6 +6,7 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -43,6 +44,7 @@ public class HomeFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
+    private TextView detail_tv;
 
     private OnFragmentInteractionListener mListener;
 
@@ -85,6 +87,10 @@ public class HomeFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_home, container, false);
         textViewCounter = (TextView) view.findViewById(R.id.textViewCounter);
+        detail_tv = (TextView) view.findViewById(R.id.textView3);
+        Typeface custom_font = Typeface.createFromAsset(getResources().getAssets(),"fonts/Raleway-Regular.ttf");
+        textViewCounter.setTypeface(custom_font);
+        detail_tv.setTypeface(custom_font);
         updateUI();
 
         return view;
